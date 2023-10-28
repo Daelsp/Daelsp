@@ -23,11 +23,9 @@
       
 ![Dael](https://github.com/Daelsp/Daelsp/assets/137012968/2c222b18-9079-42a7-b166-ff072bdf0dff)
 
-
-          
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)                
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)                         
 </div>         
-          
+            
           
           
           
